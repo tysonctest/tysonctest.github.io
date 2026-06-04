@@ -11,13 +11,13 @@ I use economic reasoning, data analysis, and business judgment to turn complex p
 ### [Federal Deficits, Demographic Aging, and Long-Term Real Rates](projects/honors-thesis.html)
 Honors thesis analyzing how federal deficits, demographic aging, and global financial conditions relate to U.S. long-term real interest rates.
 
-### Portfolio Optimization and Stock Price Forecasting
+### [Portfolio Optimization and Stock Price Forecasting](projects/portfolio-optimization.html)
 Prescriptive analytics project using Bloomberg data, efficient frontier modeling, diversification constraints, and stock price forecasting.
 
-### Business Forecasting in R
+### [Business Forecasting in R](projects/r-forecasting-capstone.html)
 Applied Business Analytics capstone work using R to forecast sales, fixed costs, labor costs, material costs, and profit.
 
-### State Fiscal and Regulatory Policy Effects on Economic Performance
+### [State Fiscal and Regulatory Policy Effects on Economic Performance](projects/public-finance-econometrics.html)
 Econometrics project using fixed-effects regression to evaluate how state fiscal and regulatory policies relate to state economic output.
 
 ### Tourism and Regional Economic Development in Custer County
