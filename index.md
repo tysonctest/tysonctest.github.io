@@ -33,4 +33,4 @@ Survey-based consulting project using Qualtrics, student feedback, literature re
 - Portfolio optimization and financial modeling
 - Survey research and stakeholder recommendations
 - Regional economic development analysis
-- Excel, Stata, R, Python, SQL, Bloomberg Terminal, Solver, and Qualtrics
+- Excel, Stata, R, Python, SQL, Solver, and Qualtrics
