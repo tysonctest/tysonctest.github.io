@@ -1,6 +1,6 @@
 # Tyson Test
 
-**Economics & Business Analytics | Forecasting, Econometrics, Optimization, and Applied Business Research**
+**Economics & Business Analytics — Forecasting, Econometrics, Optimization, and Applied Business Research**
 
 [Projects](projects.html) | [Selected Writing](writing.html) | [Resume](resume.html) | [About](about.html) | [Contact](contact.html)
 
