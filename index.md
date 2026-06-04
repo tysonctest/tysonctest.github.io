@@ -8,7 +8,7 @@ I use economic reasoning, data analysis, and business judgment to turn complex p
 
 ## Featured Projects
 
-### Federal Deficits, Demographic Aging, and Long-Term Real Rates
+### [Federal Deficits, Demographic Aging, and Long-Term Real Rates](projects/honors-thesis.html)
 Honors thesis analyzing how federal deficits, demographic aging, and global financial conditions relate to U.S. long-term real interest rates.
 
 ### Portfolio Optimization and Stock Price Forecasting
