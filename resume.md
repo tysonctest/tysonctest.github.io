@@ -1,13 +1,29 @@
 # Resume
 
-Resume PDF coming soon.
+A resume PDF will be added soon.
 
 ## Education
-University of South Dakota  
+
+**University of South Dakota**  
 Economics, Business Analytics, Finance, and Honors Program
 
 ## Technical Skills
-R, Stata, Python, SQL, Excel, Solver, Qualtrics
+
+- R
+- Stata
+- Python
+- SQL
+- Excel
+- Solver/optimization modeling
+- Qualtrics
 
 ## Focus Areas
-Econometrics, forecasting, optimization, public finance, regional economic development, project finance, and applied business analytics.
+
+- Econometrics
+- Time-series forecasting
+- Portfolio optimization
+- Public finance
+- Regional economic development
+- Survey research
+- Project finance
+- Applied business analytics
