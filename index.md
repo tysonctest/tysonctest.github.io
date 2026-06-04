@@ -4,7 +4,7 @@
 
 [Projects](projects.html) | [Selected Writing](writing.html) | [Resume](resume.html) | [About](about.html) | [Contact](contact.html)
 
-I use economic reasoning, data analysis, and business judgment to turn complex policy, finance, and business questions into clear recommendations.
+I use economic reasoning, data analysis, and business judgment to turn complex policy, finance, and business questions into clear recommendations. My portfolio includes applied work in econometrics, time-series forecasting, portfolio optimization, regional economic development, survey research, and finance.
 
 ## Featured Projects
 
@@ -20,8 +20,17 @@ Applied Business Analytics capstone work using R to forecast sales, fixed costs,
 ### [State Fiscal and Regulatory Policy Effects on Economic Performance](projects/public-finance-econometrics.html)
 Econometrics project using fixed-effects regression to evaluate how state fiscal and regulatory policies relate to state economic output.
 
-### Tourism and Regional Economic Development in Custer County
+### [Tourism and Regional Economic Development in Custer County](projects/custer-economic-development.html)
 Client-facing consulting project analyzing tourism, taxable sales, labor income, and regional economic-development indicators.
 
-### Student Internship Engagement and Career Services Survey
-Survey-based consulting project for USD’s Center for Career Design.
+### [Student Internship Engagement and Career Services Survey](projects/career-design-survey.html)
+Survey-based consulting project using Qualtrics, student feedback, literature review, and recommendations for USD’s Center for Career Design.
+
+## Technical and Applied Focus Areas
+
+- Econometrics and public finance
+- R-based time-series forecasting
+- Portfolio optimization and financial modeling
+- Survey research and stakeholder recommendations
+- Regional economic development analysis
+- Excel, Stata, R, Python, SQL, Bloomberg Terminal, Solver, and Qualtrics
