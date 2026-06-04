@@ -1,7 +1,7 @@
 # Projects
 
 ## Research & Economics
-- Federal Deficits, Demographic Aging, and Long-Term Real Rates
+- [Federal Deficits, Demographic Aging, and Long-Term Real Rates](projects/honors-thesis.html)
 - State Fiscal and Regulatory Policy Effects on Economic Performance
 - Market Concentration Case Studies: Browser and Financial Services Industries
 
