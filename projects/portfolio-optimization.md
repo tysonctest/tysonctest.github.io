@@ -56,19 +56,19 @@ This project demonstrates how prescriptive analytics can support investment deci
 * Consulting-style report writing
 ## Artifacts
 
-- [Final project report](../assets/files/portfolio-optimization/portfolio-optimization-stock-forecasting.pdf)
-- [Cleaned model demo workbook](../assets/files/portfolio-optimization/portfolio-optimization-model-demo.xlsx)
+- [Final project report](assets/files/portfolio-optimization/portfolio-optimization-stock-forecasting.pdf)
+- [Cleaned model demo workbook](assets/files/portfolio-optimization/portfolio-optimization-model-demo.xlsx)
 
 ## Selected Visuals
 
-![Efficient frontier](../assets/images/portfolio-optimization/portfolio-efficient-frontier.png)
+![Efficient frontier](assets/images/portfolio-optimization/portfolio-efficient-frontier.png)
 
 *Figure: Efficient frontier showing the tradeoff between expected portfolio return and risk.*
 
-![Portfolio allocation summary](../assets/images/portfolio-optimization/portfolio-allocation-summary.png)
+![Portfolio allocation summary](assets/images/portfolio-optimization/portfolio-allocation-summary.png)
 
 *Figure: Portfolio allocation and risk-aversion model summary.*
 
-![META forecast comparison](../assets/images/portfolio-optimization/meta-forecast-comparison.png)
+![META forecast comparison](assets/images/portfolio-optimization/meta-forecast-comparison.png)
 
 *Figure: Forecast comparison for META stock-price forecasting.*
