@@ -54,10 +54,13 @@ This project demonstrates how prescriptive analytics can support investment deci
 * Forecast model comparison
 * Financial decision support
 * Consulting-style report writing
+
 ## Artifacts
 
 - [Final project report](assets/files/portfolio-optimization/portfolio-optimization-stock-forecasting.pdf)
 - [Cleaned model demo workbook](assets/files/portfolio-optimization/portfolio-optimization-model-demo.xlsx)
+
+*Note: The workbook is a cleaned model demonstration and does not include raw Bloomberg export tabs.*
 
 ## Selected Visuals
 
