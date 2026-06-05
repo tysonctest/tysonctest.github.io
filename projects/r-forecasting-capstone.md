@@ -57,17 +57,17 @@ This project demonstrates a full applied forecasting workflow: preparing data, d
   
 ## Artifacts
 
-- [Final capstone report](../assets/files/r-forecasting-capstone/business-forecasting-r-capstone-report.pdf)
-- [Cleaned R code folder on GitHub](https://github.com/tysonctest/tysonctest.github.io/tree/main/assets/code/r-forecasting-capstone)
+* [Final capstone report](../assets/files/r-forecasting-capstone/business-forecasting-r-capstone-report.pdf)
+* [Cleaned R code folder on GitHub](https://github.com/tysonctest/tysonctest.github.io/tree/main/assets/code/r-forecasting-capstone)
 
 ## Code Files
 
 The cleaned R workflow is documented in the README and split into three forecasting scripts:
 
-- [Code README on GitHub](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/r-forecasting-capstone/README.md)
-- [01_first_sales_dataset_forecasting.R](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/r-forecasting-capstone/01_first_sales_dataset_forecasting.R)
-- [02_second_sales_dataset_forecasting.R](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/r-forecasting-capstone/02_second_sales_dataset_forecasting.R)
-- [03_third_sales_dataset_profit_forecasting.R](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/r-forecasting-capstone/03_third_sales_dataset_profit_forecasting.R)
+* [Code README on GitHub](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/r-forecasting-capstone/README.md)
+* [01_first_sales_dataset_forecasting.R](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/r-forecasting-capstone/01_first_sales_dataset_forecasting.R)
+* [02_second_sales_dataset_forecasting.R](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/r-forecasting-capstone/02_second_sales_dataset_forecasting.R)
+* [03_third_sales_dataset_profit_forecasting.R](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/r-forecasting-capstone/03_third_sales_dataset_profit_forecasting.R)
 
 *Note: Raw class CSV datasets are not included in this public portfolio package. The scripts use relative paths and document where the data files should be placed to reproduce the workflow.*
 
@@ -84,8 +84,3 @@ The cleaned R workflow is documented in the README and split into three forecast
 ![Selected model MASE comparison](../assets/images/r-forecasting-capstone/selected-model-mase-comparison.png)
 
 *Figure: Selected forecast models by test-set MASE for each business series.*
-* Third sales dataset analysis report
-* Cleaned R scripts
-* Forecast charts
-* Final eight-quarter forecast table
-* Selected diagnostic plots
