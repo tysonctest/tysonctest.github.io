@@ -48,9 +48,12 @@ This project demonstrates my ability to move from a broad public finance questio
 
 ## Artifacts
 
-Artifacts coming soon:
+- [Final thesis PDF](../assets/files/thesis/honors-thesis-deficits-aging-real-rates.pdf)
+- [Thesis defense slides](../assets/files/thesis/honors-thesis-defense-slides.pdf)
+- [Cleaned Stata code folder](../assets/code/thesis/)
 
-- Final thesis PDF
-- Thesis defense slides
-- Selected Stata code
-- Key figures
+## Selected Visual
+
+![Marginal effect of deficits across the old-age dependency ratio](../assets/images/thesis/honors-thesis-marginal-effects.png)
+
+*Figure: Estimated marginal effect of federal deficits on U.S. real 10-year Treasury rates across the old-age dependency ratio.*
