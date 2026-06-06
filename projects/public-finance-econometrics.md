@@ -82,7 +82,7 @@ The cleaned Stata workflow is documented in the README and split into modular `.
 
 ## Selected Visuals
 
-![Public finance econometrics project summary](../assets/images/public-finance-econometrics/public-finance-summary-infographic.png)
+![Public finance econometrics project summary](../assets/images/public-finance-econometrics/state_fiscal_policy_and_economic_performance.png)
 
 *Figure: Portfolio summary graphic for the public finance econometrics project.*
 
