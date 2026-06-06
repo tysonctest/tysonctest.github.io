@@ -53,6 +53,7 @@ This project demonstrates applied econometric research on a real public finance 
 
 ## Artifacts
 
+- [Polished research report](../assets/files/public-finance-econometrics/public-finance-econometrics-report-polished.pdf)
 * [Presentation slides](../assets/files/public-finance-econometrics/public-finance-presentation-slides.pdf)
 * [One-page research brief](../assets/files/public-finance-econometrics/public-finance-research-brief.pdf)
 * [Data and methods note](../assets/files/public-finance-econometrics/public-finance-data-methods-note.pdf)
