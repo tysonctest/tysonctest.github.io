@@ -53,39 +53,39 @@ This project demonstrates applied econometric research on a real public finance 
 
 ## Artifacts
 
-- [Final project report](../assets/files/public-finance-econometrics/public-finance-econometrics-report.pdf)
-- [Presentation slides](../assets/files/public-finance-econometrics/public-finance-presentation-slides.pdf)
-- [One-page research brief](../assets/files/public-finance-econometrics/public-finance-research-brief.pdf)
-- [Data and methods note](../assets/files/public-finance-econometrics/public-finance-data-methods-note.pdf)
-- [Cleaned Stata code folder on GitHub](https://github.com/tysonctest/tysonctest.github.io/tree/main/assets/code/public-finance-econometrics)
+* [Presentation slides](../assets/files/public-finance-econometrics/public-finance-presentation-slides.pdf)
+* [One-page research brief](../assets/files/public-finance-econometrics/public-finance-research-brief.pdf)
+* [Data and methods note](../assets/files/public-finance-econometrics/public-finance-data-methods-note.pdf)
+* [Cleaned Stata code folder on GitHub](https://github.com/tysonctest/tysonctest.github.io/tree/main/assets/code/public-finance-econometrics)
 
 ## Code Files
 
 The cleaned Stata workflow is documented in the README and split into modular `.do` files:
 
-- [Code README on GitHub](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/README.md)
-- [run_all.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/run_all.do)
-- [01_setup_and_panel.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/01_setup_and_panel.do)
-- [02_summary_statistics.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/02_summary_statistics.do)
-- [03_fixed_effects_regressions.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/03_fixed_effects_regressions.do)
-- [04_export_tables.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/04_export_tables.do)
+* [Code README on GitHub](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/README.md)
+* [run_all.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/run_all.do)
+* [01_setup_and_panel.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/01_setup_and_panel.do)
+* [02_summary_statistics.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/02_summary_statistics.do)
+* [03_fixed_effects_regressions.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/03_fixed_effects_regressions.do)
+* [04_export_tables.do](https://github.com/tysonctest/tysonctest.github.io/blob/main/assets/code/public-finance-econometrics/04_export_tables.do)
 
 *Note: Raw class datasets are not included in this public portfolio package. The scripts are cleaned for portfolio review and document the general empirical workflow.*
 
 ## At a Glance
 
-- **Course:** ECON-421 Econometrics  
-- **Conference presentation:** Missouri Valley Economics Association (MVEA), Kansas City, Fall 2024  
-- **Data:** 50 U.S. states over 2000–2020  
-- **Method:** State fixed-effects regressions  
-- **Main takeaway:** Fiscal variables were more consistently associated with economic performance than most regulatory variables tested
+* **Course:** ECON-421 Econometrics
+* **Conference presentation:** Missouri Valley Economics Association (MVEA), Kansas City, Fall 2024
+* **Data:** 50 U.S. states over 2000–2020
+* **Method:** State fixed-effects regressions
+* **Main takeaway:** Fiscal variables were more consistently associated with economic performance than most regulatory variables tested.
 
 ## Selected Visuals
+
+![Public finance econometrics project summary](../assets/images/public-finance-econometrics/public-finance-summary-infographic.png)
+
+*Figure: Portfolio summary graphic for the public finance econometrics project.*
 
 ![Key regression results](../assets/images/public-finance-econometrics/public-finance-key-results.png)
 
 *Figure: Selected fixed-effects regression results.*
 
-![Project summary graphic](../assets/images/public-finance-econometrics/public-finance-project-summary-polished.png)
-
-*Figure: Summary of the project’s research question, data, method, and main takeaway.*
