@@ -72,12 +72,20 @@ The cleaned Stata workflow is documented in the README and split into modular `.
 
 *Note: Raw class datasets are not included in this public portfolio package. The scripts are cleaned for portfolio review and document the general empirical workflow.*
 
+## At a Glance
+
+- **Course:** ECON-421 Econometrics  
+- **Conference presentation:** Missouri Valley Economics Association (MVEA), Kansas City, Fall 2024  
+- **Data:** 50 U.S. states over 2000–2020  
+- **Method:** State fixed-effects regressions  
+- **Main takeaway:** Fiscal variables were more consistently associated with economic performance than most regulatory variables tested
+
 ## Selected Visuals
 
 ![Key regression results](../assets/images/public-finance-econometrics/public-finance-key-results.png)
 
-*Figure: Key fixed-effects regression results from the public finance econometrics project.*
+*Figure: Selected fixed-effects regression results.*
 
-![Model summary](../assets/images/public-finance-econometrics/public-finance-model-summary.png)
+![Project summary graphic](../assets/images/public-finance-econometrics/public-finance-project-summary-polished.png)
 
-*Figure: Summary of the project’s research design, data, model structure, and interpretation.*
+*Figure: Summary of the project’s research question, data, method, and main takeaway.*
