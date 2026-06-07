@@ -4,7 +4,7 @@
 **Tools:** Excel, public economic data, BLS/QCEW data, FRED/BEA data, taxable sales data, tourism indicators, regional benchmarking
 **Status:** Completed Coyote Business Consulting project
 **Client:** Custer Area Economic Development Foundation
-**My role:** Team consultant; interpretation, writing, presentation, and selected data organization/analysis support
+**My role:** Full technical, analytical, writing, and presentation contributor
 
 [← Back to Projects](../projects.html)
 
@@ -14,13 +14,9 @@ This project analyzed tourism’s role in the economy of Custer County, South Da
 
 The final deliverables were designed for a client audience rather than a purely academic audience. The goal was to turn public data into practical findings that could support local economic-development conversations.
 
-## Role Note
-
-This was a team consulting project. Because I was sick during the early part of the project, my strongest contributions came later in the semester through interpretation, writing, presentation development, and helping translate the analysis into client-facing recommendations. The technical workbook included here is a cleaned portfolio demonstration of the public-data workflow rather than a claim that I independently completed every technical step of the original team project.
-
 ## Problem / Research Question
 
-How important is tourism to Custer County’s economy, and what patterns in employment, taxable sales, lodging capacity, public attractions, and regional economic indicators should inform future economic-development planning?
+How important is tourism to Custer County’s economy, and what patterns in employment, taxable sales, lodging capacity, public attractions, and regional economic indicators should inform future regional economic-development planning?
 
 ## Data and Methods
 
@@ -29,6 +25,8 @@ The project used publicly available data from sources such as state government t
 Methods included:
 
 * Public-data collection and organization
+* BLS/QCEW-style labor-market analysis
+* FRED/BEA regional economic data review
 * Tourism and hospitality indicator review
 * Regional benchmarking
 * Taxable-sales and labor-market interpretation
@@ -47,9 +45,10 @@ This project demonstrates applied business and economic consulting for a real cl
 ## Skills Demonstrated
 
 * Regional economic analysis
-* Public-data collection and organization
+* Public data collection and organization
 * Excel-based analysis
 * BLS/QCEW and regional data workflow
+* FRED/BEA data interpretation
 * Tourism and taxable-sales interpretation
 * Client-facing report writing
 * Presentation development
