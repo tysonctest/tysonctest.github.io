@@ -1,56 +1,78 @@
-Market Concentration Case Studies: Browser and Financial Services Industries
+# Market Concentration Case Studies: Browser and Financial Services Industries
 
-Project type: Industrial organization / market-structure analysis
-Tools: Excel, market shares, HHI, concentration ratios
-Status: Completed ECON-450 Industrial Organization case studies
-My role: Student analyst
+**Project type:** Industrial Organization / market-structure analysis
+**Tools:** Excel, HHI, CR4, market-share analysis, scenario analysis
+**Status:** Completed ECON-450 Industrial Organization case studies
+**My role:** Individual analyst; spreadsheet modeling, interpretation, and written analysis
 
-← Back to Projects
+[← Back to Projects](../projects.html)
 
-Summary
+## Summary
 
-These Industrial Organization case studies used market-share data to evaluate concentration in the browser and financial services industries. The analysis applied concentration ratios and the Herfindahl-Hirschman Index to examine market structure, dominance, and how concentration can change even when top-firm concentration ratios remain relatively stable.
+This project applied Industrial Organization concepts to market concentration case studies in the browser and financial services industries. The analysis used concentration metrics, such as the four-firm concentration ratio (CR4) and the Herfindahl-Hirschman Index (HHI), to evaluate how market structure varies across industries and scenarios.
 
-Problem / Research Question
+The browser case examined how concentration changed as Google Chrome expanded its market share. The financial-services case used credit-card issuer shares to analyze baseline concentration and a hypothetical consolidation scenario.
 
-How concentrated are selected real-world markets, and what do concentration measures such as HHI and CR4/CR5 reveal about industry structure?
+## Problem / Research Question
 
-Data and Methods
+How can market-share data and concentration metrics be used to evaluate industry structure, firm dominance, and changes in concentration under consolidation scenarios?
 
-The projects used market-share data organized in Excel. Concentration was evaluated using standard industrial organization tools.
+## Data and Methods
+
+The project used market-share data from course case-study spreadsheets. Shares were organized in Excel and converted into concentration metrics.
 
 Methods included:
 
-Market-share calculation
-Herfindahl-Hirschman Index calculation
-CR4 and CR5 concentration ratios
-Comparison of concentration measures
-Interpretation of dominance and market structure
-Scenario-style concentration analysis
-Key Findings
+* Market-share organization and cleaning
+* Firm-level aggregation where needed
+* CR4 calculation
+* HHI calculation
+* Scenario analysis using recomputed firm shares
+* Comparison of concentration metrics across markets
+* Written interpretation of what the metrics reveal and what they do not prove
 
-The browser-market case showed how a market can remain highly concentrated among the top firms while becoming more dominated by a single leading firm over time. This makes HHI useful because it captures not only the share controlled by top firms, but also how unevenly that share is distributed.
+## Key Findings
 
-The financial services case applied similar concentration tools to evaluate industry structure and potential consolidation effects.
+The browser case showed that CR4 can remain high and relatively stable while HHI rises sharply. This is important because HHI captures the increasing dominance of one firm inside an already concentrated leading group.
 
-Why This Project Matters
+The credit-card issuer case showed how a hypothetical merger or consolidation scenario can be evaluated by combining firm shares and recomputing HHI. The scenario increased the HHI, illustrating how concentration metrics can be used to structure merger-style analysis.
 
-This project demonstrates applied microeconomic reasoning and the ability to connect industrial organization concepts to real-world markets. It also shows how simple quantitative measures can inform market-structure analysis, antitrust thinking, and business strategy.
+## Why This Project Matters
 
-Skills Demonstrated
-Industrial organization analysis
-Market-share analysis
-HHI calculation
-Concentration ratio calculation
-Excel-based analysis
-Antitrust-style reasoning
-Economic interpretation
-Market-structure communication
-Artifacts
+This project demonstrates applied microeconomic reasoning and antitrust-style market-structure analysis. It also shows how a simple spreadsheet model can turn market-share data into interpretable measures of industry concentration.
 
-Artifacts coming soon:
+The project is especially useful for showing that quantitative metrics need careful interpretation: CR4, HHI, and delta HHI each answer different questions, and none of them alone proves market power, consumer harm, or legal liability.
 
-Excel screenshots
-HHI summary table
-Browser-market case summary
-Financial Services Case Summary
+## Skills Demonstrated
+
+* Industrial Organization analysis
+* HHI and CR4 calculation
+* Market-share data organization
+* Firm-level aggregation
+* Scenario analysis
+* Spreadsheet-based modeling
+* Competition-policy interpretation
+* Professional writing and explanation of quantitative findings
+
+## Artifacts
+
+* [Case-study report](../assets/files/market-concentration/market-concentration-case-studies.pdf)
+* [One-page project brief](../assets/files/market-concentration/market-concentration-brief.pdf)
+* [Methods note](../assets/files/market-concentration/market-concentration-methods-note.pdf)
+* [Cleaned workbook demo](../assets/files/market-concentration/market-concentration-workbook-demo.xlsx)
+
+*Note: The workbook is a cleaned portfolio demonstration of the HHI and CR4 calculation workflow. It is designed to show transparent spreadsheet logic and scenario analysis rather than serve as a legal or regulatory conclusion.*
+
+## Selected Visuals
+
+![Market concentration HHI summary](../assets/images/market-concentration/market-concentration-hhi-summary.png)
+
+*Figure: Summary of the project’s market concentration methods and case-study findings.*
+
+![Browser market concentration](../assets/images/market-concentration/browser-market-concentration.png)
+
+*Figure: Browser industry HHI and CR4 comparison across selected years.*
+
+![Financial services concentration scenario](../assets/images/market-concentration/financial-services-concentration.png)
+
+*Figure: Credit-card issuer HHI before and after a hypothetical consolidation scenario.*
