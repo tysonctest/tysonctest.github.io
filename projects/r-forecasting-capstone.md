@@ -1,8 +1,8 @@
 # Business Forecasting in R: Sales, Costs, and Profit
 
-**Project type:** Applied business analytics / time-series forecasting
-**Tools:** R, forecast package, time-series diagnostics, CSV business data
-**Status:** Completed DSCI-430 Applied Business Analytics capstone assignments
+**Project type:** Applied business analytics / time-series forecasting<br>
+**Tools:** R, forecast package, time-series diagnostics, CSV business data<br>
+**Status:** Completed DSCI-430 Applied Business Analytics capstone assignments<br>
 **My role:** Individual analyst
 
 [← Back to Projects](../projects.html)
