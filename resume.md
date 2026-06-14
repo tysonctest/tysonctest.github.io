@@ -1,6 +1,10 @@
 # Resume
 
-A resume PDF will be added soon.
+# Resume
+
+My resume summarizes my education, analytical experience, applied research, consulting work, and technical skills.
+
+[View or download my resume as a PDF](/assets/files/resume/tyson-test-resume.pdf)
 
 ## Education
 
