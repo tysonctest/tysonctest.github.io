@@ -11,25 +11,13 @@ My resume summarizes my education, analytical experience, applied research, cons
 * Bachelor of Business Administration, May 2026
 * Majors: Economics and Business Analytics
 * Minor: Finance
-* University Honors Scholar | GPA: 3.93
+* University Honors Scholar
+* GPA: 3.93
 
 ## Technical Skills
 
-* R
-* Stata
-* Python
-* SQL
-* Excel
-* Solver and optimization modeling
-* Qualtrics
+R, Stata, Python, SQL, Excel, Solver and optimization modeling, and Qualtrics.
 
 ## Focus Areas
 
-* Econometrics
-* Time-series forecasting
-* Portfolio optimization
-* Public finance
-* Regional economic development
-* Survey research
-* Project finance
-* Applied business analytics
+Econometrics, time-series forecasting, portfolio optimization, public finance, regional economic development, survey research, project finance, and applied business analytics.
