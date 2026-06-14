@@ -1,8 +1,8 @@
 # Python and SQL Foundations
 
-**Project type:** Technical foundations / introductory analytics coursework
-**Tools:** Python, SQL, pandas, sqlite3, matplotlib, introductory database querying
-**Status:** Completed DSCI-405 Business Analytics Fundamentals and supplemental certificates
+**Project type:** Technical foundations / introductory analytics coursework<br>
+**Tools:** Python, SQL, pandas, sqlite3, matplotlib, introductory database querying<br>
+**Status:** Completed DSCI-405 Business Analytics Fundamentals and supplemental certificates<br>
 **My role:** Individual student
 
 [← Back to Projects](../projects.html)
