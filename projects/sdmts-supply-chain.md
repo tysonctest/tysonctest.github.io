@@ -1,8 +1,8 @@
 # South Dakota Manufacturing Supply Chain Mapping
 
-**Project type:** Client-facing consulting / supply-chain mapping / applied data analysis
-**Tools:** Excel, data cleaning, D&B Hoovers-style firm data, mapping tools, dashboard design, regional economic analysis
-**Status:** Completed consulting project for South Dakota Manufacturing & Technology Solutions
+**Project type:** Client-facing consulting / supply-chain mapping / applied data analysis<br>
+**Tools:** Excel, data cleaning, D&B Hoovers-style firm data, mapping tools, dashboard design, regional economic analysis<br>
+**Status:** Completed consulting project for South Dakota Manufacturing & Technology Solutions<br>
 **My role:** Team consultant; interpretation, writing, presentation development, and client-facing recommendation support
 
 [← Back to Projects](../projects.html)
