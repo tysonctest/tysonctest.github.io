@@ -4,12 +4,14 @@ My resume summarizes my education, analytical experience, applied research, cons
 
 [View or download my resume as a PDF](/assets/files/tyson-test-resume.pdf)
 
-Education
+## Education
 
-University of South Dakota, Beacom School of Business
-Bachelor of Business Administration, May 2026
-Majors: Economics and Business Analytics | Minor: Finance
-University Honors Scholar | GPA: 3.93
+**University of South Dakota, Beacom School of Business**
+
+* Bachelor of Business Administration, May 2026
+* Majors: Economics and Business Analytics
+* Minor: Finance
+* University Honors Scholar | GPA: 3.93
 
 ## Technical Skills
 
