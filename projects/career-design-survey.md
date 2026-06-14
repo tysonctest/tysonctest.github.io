@@ -1,8 +1,8 @@
 # Student Internship Engagement and Career Services Survey
 
-**Project type:** Survey research / internal consulting
-**Tools:** Qualtrics, literature review, survey design, descriptive analysis, stakeholder recommendations
-**Status:** Completed Coyote Business Consulting project
+**Project type:** Survey research / internal consulting<br>
+**Tools:** Qualtrics, literature review, survey design, descriptive analysis, stakeholder recommendations<br>
+**Status:** Completed Coyote Business Consulting project<br>
 **My role:** Two-person consulting team; survey design, analysis, writing, and recommendations
 
 [← Back to Projects](../projects.html)
