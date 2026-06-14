@@ -1,8 +1,8 @@
 # Market Concentration Case Studies: Browser and Financial Services Industries
 
-**Project type:** Industrial Organization / market-structure analysis
-**Tools:** Excel, HHI, CR4, market-share analysis, scenario analysis
-**Status:** Completed ECON-450 Industrial Organization case studies
+**Project type:** Industrial Organization / market-structure analysis<br>
+**Tools:** Excel, HHI, CR4, market-share analysis, scenario analysis<br>
+**Status:** Completed ECON-450 Industrial Organization case studies<br>
 **My role:** Individual analyst; spreadsheet modeling, interpretation, and written analysis
 
 [← Back to Projects](../projects.html)
