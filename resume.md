@@ -6,7 +6,7 @@ My resume summarizes my education, analytical experience, applied research, cons
 
 ## Education
 
-**University of South Dakota**
+**University of South Dakota, Beacom School of Business**
 Bachelor of Business Administration, May 2026
 Majors: Economics and Business Analytics | Minor: Finance
 University Honors Scholar | GPA: 3.93
@@ -27,6 +27,7 @@ University Honors Scholar | GPA: 3.93
 * Time-series forecasting
 * Portfolio optimization
 * Public finance
-* Business analytics
-* Financial modeling
-* Applied research
+* Regional economic development
+* Survey research
+* Project finance
+* Applied business analytics
