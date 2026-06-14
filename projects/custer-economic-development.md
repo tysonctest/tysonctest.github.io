@@ -1,9 +1,9 @@
 # Tourism and Regional Economic Development in Custer County
 
-**Project type:** Client-facing consulting / regional economic analysis
-**Tools:** Excel, public economic data, BLS/QCEW data, FRED/BEA data, taxable sales data, tourism indicators, regional benchmarking
-**Status:** Completed Coyote Business Consulting project
-**Client:** Custer Area Economic Development Foundation
+**Project type:** Client-facing consulting / regional economic analysis<br>
+**Tools:** Excel, public economic data, BLS/QCEW data, FRED/BEA data, taxable sales data, tourism indicators, regional benchmarking<br>
+**Status:** Completed Coyote Business Consulting project<br>
+**Client:** Custer Area Economic Development Foundation<br>
 **My role:** Full technical, analytical, writing, and presentation contributor
 
 [← Back to Projects](../projects.html)
