@@ -1,8 +1,8 @@
 # Wind Farm Project Finance Case Study
 
-**Project type:** Commercial bank management / project finance case study
-**Tools:** Excel, project finance template, debt-service analysis, covenant analysis, sensitivity analysis
-**Status:** Completed FIN-416 Commercial Bank Management project
+**Project type:** Commercial bank management / project finance case study<br>
+**Tools:** Excel, project finance template, debt-service analysis, covenant analysis, sensitivity analysis<br>
+**Status:** Completed FIN-416 Commercial Bank Management project<br>
 **My role:** Completed and interpreted an instructor-provided project-finance model template
 
 [← Back to Projects](../projects.html)
