@@ -1,8 +1,8 @@
 # Portfolio Optimization and Stock Price Forecasting Using Bloomberg Data
 
-**Project type:** Prescriptive analytics / finance analytics group project
-**Tools:** Bloomberg Terminal, Excel, Solver / optimization add-in, forecasting methods
-**Status:** Completed DSCI-428 Prescriptive Analytics project
+**Project type:** Prescriptive analytics / finance analytics group project<br>
+**Tools:** Bloomberg Terminal, Excel, Solver / optimization add-in, forecasting methods<br>
+**Status:** Completed DSCI-428 Prescriptive Analytics project<br>
 **My role:** Full technical and written contributor
 
 [← Back to Projects](../projects.html)
