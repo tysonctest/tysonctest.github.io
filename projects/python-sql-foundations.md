@@ -74,6 +74,6 @@ The project is also useful because it shows learning progression. The skills doc
 
 *Figure: Cleaned Python script preview showing introductory programming logic and documentation style.*
 
-![SQL query preview](../assets/images/python-sql-foundations/sql-query-preview.png)
+![SQL query preview](../assets/images/python-sql-foundations/sql-query-preview.png?v=2)
 
 *Figure: SQL query preview showing basic database-selection, filtering, grouping, and aggregation logic.*
