@@ -1,7 +1,7 @@
 # Portfolio Optimization and Stock Price Forecasting Using Bloomberg Data
 
 **Project type:** Prescriptive analytics / finance analytics group project<br>
-**Tools:** Bloomberg Terminal, Excel, Solver / optimization add-in, forecasting methods<br>
+**Tools:** Bloomberg Terminal, Excel, Solver/optimization add-in, forecasting methods<br>
 **Status:** Completed DSCI-428 Prescriptive Analytics project<br>
 **My role:** Full technical and written contributor
 
@@ -57,21 +57,21 @@ This project demonstrates how prescriptive analytics can support investment deci
 
 ## Artifacts
 
-- [Final project report](assets/files/portfolio-optimization/portfolio-optimization-stock-forecasting.pdf)
-- [Cleaned model demo workbook](assets/files/portfolio-optimization/portfolio-optimization-model-demo.xlsx)
+* [Final project report](../assets/files/portfolio-optimization/portfolio-optimization-stock-forecasting.pdf)
+* [Cleaned model demo workbook](../assets/files/portfolio-optimization/portfolio-optimization-model-demo.xlsx)
 
 *Note: The workbook is a cleaned model demonstration and does not include raw Bloomberg export tabs.*
 
 ## Selected Visuals
 
-![Efficient frontier](assets/images/portfolio-optimization/portfolio-efficient-frontier.png)
+![Efficient frontier](../assets/images/portfolio-optimization/portfolio-efficient-frontier.png)
 
 *Figure: Efficient frontier showing the tradeoff between expected portfolio return and risk.*
 
-![Portfolio allocation summary](assets/images/portfolio-optimization/portfolio-allocation-summary.png)
+![Portfolio allocation summary](../assets/images/portfolio-optimization/portfolio-allocation-summary.png)
 
 *Figure: Portfolio allocation and risk-aversion model summary.*
 
-![META forecast comparison](assets/images/portfolio-optimization/meta-forecast-comparison.png)
+![META forecast comparison](../assets/images/portfolio-optimization/meta-forecast-comparison.png)
 
 *Figure: Forecast comparison for META stock-price forecasting.*
